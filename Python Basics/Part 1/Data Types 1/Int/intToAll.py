@@ -1,0 +1,9 @@
+a=10
+b=bin(a)
+c=oct(a)
+d=hex(a)
+print("Convertions")
+print(a)
+print(b)
+print(c)
+print(d)
