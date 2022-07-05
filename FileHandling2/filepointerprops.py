@@ -1,0 +1,7 @@
+f = open('abc.txt','kiran')
+print(f.name)
+print(f.mode)
+print(f.readable())
+print(f.closed)
+f.close()
+print(f.closed)

@@ -1,0 +1,5 @@
+f= open("kiran.txt", 'w+')
+f.write("Helllo")
+data= f.read()
+print(data)
+f.close()
