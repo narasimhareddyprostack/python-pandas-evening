@@ -1,4 +1,4 @@
-f = open('abc.txt','kiran')
+f = open('abc.txt','w')
 print(f.name)
 print(f.mode)
 print(f.readable())
